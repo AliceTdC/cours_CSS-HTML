@@ -1,0 +1,47 @@
+h1 {
+    font-size: 50px;
+    color: crimson;
+    text-decoration: underline;
+    text-align: center;
+
+}
+h2 {
+    font-size: 35px;
+    color: orange;
+    text-decoration: underline; 
+}
+p {
+    font-family:"Trebuchet MS", cursive;
+}
+ul, ol, a{
+    font-family:"Trebuchet MS", cursive;
+}
+a {
+    font-style: italic;
+    color: crimson;
+    text-decoration: none;
+}
+span {
+    color: red;
+}
+ul li{ 
+    color:brown ;
+}
+.rose { /*.nom de la class*/
+    color: rgb(241, 129, 195);
+}
+#unique { /* #nom de l'Id */
+    color:deepskyblue;
+}
+li {
+    color: darkgreen !important; /* important veut dire que cette propriété est prioritaire sur toutes les autres */
+}
+p {
+    text-align: justify;
+    
+}
+body{
+    background-image: url("../Images/chaussure.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}

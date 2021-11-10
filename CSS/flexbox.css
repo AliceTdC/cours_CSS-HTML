@@ -1,0 +1,25 @@
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+    align-self: flex-end;
+}
+
+#container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; /*aligne sur l'axe 2ndaire*/
+    height: 1000px;
+    border: 1px solid black
+}
+
+div div{
+    height:300px;
+    width: 300px;
+}

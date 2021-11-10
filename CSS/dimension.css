@@ -1,0 +1,22 @@
+div {
+    background-color: burlywood;
+    text-align: justify;
+    border: black solid 1px;
+    width: 50%;
+    height: 700px;
+    padding: 30px
+    margin: 50px;
+}
+
+a{
+    margin: 20px
+}
+.inline {
+    display: inline;
+    background-color: chartreuse;
+    margin: 0;
+}
+img {
+    width: 30%;
+    
+}
